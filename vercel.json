@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "wish-you-cutiepie",
+  "buildCommand": "echo 'No build needed'",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": false
+}
